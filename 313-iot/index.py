@@ -13,7 +13,7 @@ import python_weather
 import asyncio
 import googlemaps
 
-gmaps = googlemaps.Client(key='AIzaSyCc8wAa6p-IMlpXjxXvcRJS0cI9VCJrsfQ')
+gmaps = googlemaps.Client(key='')
 
 
 i = open('input.txt', 'r')
